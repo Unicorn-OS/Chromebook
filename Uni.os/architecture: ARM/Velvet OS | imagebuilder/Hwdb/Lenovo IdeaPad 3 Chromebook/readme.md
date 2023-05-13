@@ -2,8 +2,11 @@
 [chromebook_kukui: status: fennel14 (lenovo ideapad chromebook 14) #49](https://github.com/hexdump0815/imagebuilder/issues/49)
 
 # Image:
-release tag: 210724-03
+## 2021
 image: https://github.com/hexdump0815/imagebuilder/releases/tag/210724-03
+
+## 2022
+image: https://github.com/hexdump0815/imagebuilder/releases/tag/220606-01
 
 ## community:
 success: True
