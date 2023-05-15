@@ -1,5 +1,8 @@
 # main Thread:
-[chromebook_kukui: status: fennel14 (lenovo ideapad chromebook 14) #49](https://github.com/hexdump0815/imagebuilder/issues/49)
+[chromebook_kukui: status: fennel14 (lenovo ideapad chromebook 14) #49](https://github.com/hexdump0815/imagebuilder/issues/49)  
+
+Has instructions & a script for **building a kernel** from: https://github.com/hexdump0815/linux-mainline-mediatek-mt81xx-kernel
+[ark:](https://web.archive.org/web/20230515162240/https://github.com/hexdump0815/imagebuilder/issues/49)
 
 # Image:
 **2021** image: https://github.com/hexdump0815/imagebuilder/releases/tag/210724-03
