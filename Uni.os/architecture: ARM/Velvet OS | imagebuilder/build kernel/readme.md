@@ -1,3 +1,6 @@
+# code from linux-mainline/readme.mt8
+script: https://github.com/hexdump0815/linux-mainline-mediatek-mt81xx-kernel/blob/master/readme.mt8
+
 # kernel build script from BenjaminWegener
 I'm not sure where the original is that he created it from? but it works.
 
