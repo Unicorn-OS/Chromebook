@@ -1,4 +1,4 @@
-# Do: Turn this into a C++/Rust function to use in Uni.os Mega app! :-)
+# Do: Turn this into a C++/Rust function to use in Uni.os/UniCloud "everything" app! :-)
 
 # Example: chromebook kukui
 # from: https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_kukui/readme.md
