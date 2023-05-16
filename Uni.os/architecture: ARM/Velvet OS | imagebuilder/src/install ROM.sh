@@ -14,4 +14,4 @@ wget -c $rom_url
 
 gunzip -k ${rom_image}.gz
 
-dd if=$rom_image of=/dev/$empty_Drive
+dd if=$rom_image of=/dev/$empty_Drive bs=50M status=progress; sync
