@@ -2,7 +2,7 @@
 source: https://github.com/hexdump0815/linux-mainline-mediatek-mt81xx-kernel/blob/master/readme.mt8
 **BenjaminWegener's script is originally based on this file,** he mentions it at the line 62: `# code from readme.mt8`
 
-# kernel build script from BenjaminWegener
+## custom: kernel build script from BenjaminWegener
 I'm not sure where the original is that he created it from? but it works.
 
 thread: https://github.com/hexdump0815/imagebuilder/issues/49#issuecomment-1141777346
