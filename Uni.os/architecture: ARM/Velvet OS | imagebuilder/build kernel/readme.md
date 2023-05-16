@@ -1,5 +1,7 @@
-# linux-mainline/readme.mt8
-source: https://github.com/hexdump0815/linux-mainline-mediatek-mt81xx-kernel/blob/master/readme.mt8
+# VelvetOS Official kernel-build script:
+source: [linux-mainline-mediatek-mt81xx-kernel
+/readme.mt8](https://github.com/hexdump0815/linux-mainline-mediatek-mt81xx-kernel/blob/master/readme.mt8)
+
 **BenjaminWegener's script is originally based on this file,** he mentions it at the line 62: `# code from readme.mt8`
 
 ## custom: kernel build script from BenjaminWegener
