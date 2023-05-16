@@ -12,7 +12,7 @@ sch: https://www.google.com/search?q=chromebook+force+recovery+usb
 ```
 
 2. Wait for it to reboot and enter dev mode.
-`<ctrl> + <d>
+`<ctrl> + <d>`
 
 3. now connect to a wifi network, and/or "Browse as guest"
 ```
