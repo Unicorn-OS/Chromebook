@@ -21,4 +21,7 @@ shell
 sudo bash
 enable_dev_usb_boot
 ```
+
+4. Reboot, and press `<Ctrl> + <u>` to boot a USB!
+
 from: https://www.wikihow.com/Enable-USB-Booting-on-Chromebook
