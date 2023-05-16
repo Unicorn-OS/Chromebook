@@ -1,4 +1,5 @@
 # code from linux-mainline/readme.mt8
+**BenjaminWegener's script is originally based on this file:**
 script: https://github.com/hexdump0815/linux-mainline-mediatek-mt81xx-kernel/blob/master/readme.mt8
 
 # kernel build script from BenjaminWegener
