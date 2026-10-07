@@ -1,3 +1,6 @@
+# Direct Img Download:
+https://github.com/Unicorn-OS/ChromeOS/blob/main/.graph/Recovery%20image/readme.md#recovery-img-direct-download-recoveryconf
+
 # Download Recovery images to recover, or Revert to earlier versions!
 https://cros.tech/
 
