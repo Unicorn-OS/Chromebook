@@ -3,6 +3,7 @@ https://share.google/aimode/Jyo8PsxsztjhzCHwR
 https://share.google/aimode/adxOhIN5NbUtjun8I
 https://share.google/aimode/QIsbbnOcdd1NU3XG8
 https://share.google/aimode/1dekYjVs5nLPYBRu1
+https://share.google/aimode/IjoiQUlJtnxGfjYeQ
 
 # Query.Chain:
 - android monitor hotspot network usage
