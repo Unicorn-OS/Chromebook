@@ -1,0 +1,10 @@
+https://share.google/aimode/aW9k5SfClsj8i3zaq
+
+# Query.Chain:
+- android monitor hotspot network usage
+- I would like a realtime bandwidth usage meter for a hotspot. On the connected Wifi Client device I have a long-running download process that tends to freeze. I should be able to detect if it has frozen based on bandwidth used decreasing.
+- The client device is a Chromebook, and the process is the integrated Linux terminal "Development Environment" built in to Chromebooks. How would monitor it?
+- Is there any way to do it in Chromes native crosh or root shell? The problem is the first "initialization" of Terminal is freezing. So I never get to the point where apt-get is available.
+
+# Command
+`while true; do awk '/wlan0/ {print "Received: " $2/1024 " KB  |  Sent: " $10/1024 " KB"}' /proc/net/dev; sleep 2; done`
