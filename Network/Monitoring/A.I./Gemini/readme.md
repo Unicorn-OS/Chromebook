@@ -7,4 +7,8 @@ https://share.google/aimode/aW9k5SfClsj8i3zaq
 - Is there any way to do it in Chromes native crosh or root shell? The problem is the first "initialization" of Terminal is freezing. So I never get to the point where apt-get is available.
 
 # Command
+monitor()  
 `while true; do awk '/wlan0/ {print "Received: " $2/1024 " KB  |  Sent: " $10/1024 " KB"}' /proc/net/dev; sleep 2; done`
+
+check_interfaces()  
+`cat /proc/net/dev`
