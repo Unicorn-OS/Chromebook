@@ -1,3 +1,5 @@
+https://share.google/aimode/DhBxl1D2fLA2tqTXw
+
 https://share.google/aimode/aW9k5SfClsj8i3zaq
 https://share.google/aimode/Jyo8PsxsztjhzCHwR
 https://share.google/aimode/adxOhIN5NbUtjun8I
@@ -16,8 +18,11 @@ https://share.google/aimode/IjoiQUlJtnxGfjYeQ
 - One final question: Is it possible to "Pause" a Terminal initial setup? What would happen if the Wifi were to get interrupted? Does it have to restart from zero? Does it timeout?
 
 # Command
-monitor()  
-`while true; do awk '/wlan0/ {print "Received: " $2/1024 " KB  |  Sent: " $10/1024 " KB"}' /proc/net/dev; sleep 2; done`
+```
+monitor()
+# Run this in "Ctrl + Alt + T" -> "shell", or in Virtual Terminal #2: "Ctrl + Alt + F2"
+while true; do awk '/wlan0/ {print "Received: " $2/1024 " KB  |  Sent: " $10/1024 " KB"}' /proc/net/dev; sleep 2; done
+
 
 check_interfaces()  
 `cat /proc/net/dev`
